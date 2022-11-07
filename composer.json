@@ -52,6 +52,9 @@
             "dev-main": "0.3.x-dev"
         }
     },
+    "suggest": {
+        "sonsofphp/cqrs-bundle": "Makes config and setup easier when using Symfony Framework"
+    },
     "funding": [
         {
             "type": "github",
